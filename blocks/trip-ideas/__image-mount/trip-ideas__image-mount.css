@@ -1,0 +1,5 @@
+.trip-ideas__image-mount {
+    grid-area: image-mount;
+    background-image: url(../../../images/places-mountains.jpeg);
+    background-size: cover;
+}

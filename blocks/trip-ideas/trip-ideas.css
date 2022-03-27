@@ -1,0 +1,28 @@
+.trip-ideas {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(2, 50%);
+  grid-template-rows: repeat(3, calc(50vw / 1.2));
+  grid-template-areas:
+    "image-forest item-forest"
+    "item-mount image-mount"
+    "image-sea item-sea";
+}
+@media screen and (min-width: 1280px) and (max-width: 1920px) {
+  .trip-ideas {
+    max-width: 1920px;
+  }
+}
+@media screen and (min-width: 320px) and (max-width: 768px) {
+  .trip-ideas {
+    grid-template-columns: 100vw;
+    grid-template-rows: repeat(6, calc(100vw / 1.2));
+    grid-template-areas:
+      "item-forest"
+      "image-forest"
+      "item-mount"
+      "image-mount"
+      "item-sea"
+      "image-sea";
+    }
+  }

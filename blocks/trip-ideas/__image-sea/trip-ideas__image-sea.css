@@ -1,0 +1,6 @@
+.trip-ideas__image-sea {
+  grid-area: image-sea;
+  background-image: url(../../../images/places-black-sea.jpeg);
+  background-position: bottom;
+  background-size: cover;
+}

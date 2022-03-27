@@ -1,0 +1,5 @@
+.trip-ideas__image-forest {
+  grid-area: image-forest;
+  background-image: url(../../../images/places-forest.jpeg);
+  background-size: cover;
+}

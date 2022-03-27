@@ -1,0 +1,12 @@
+@import url(../blocks/trip-ideas/trip-ideas.css);
+@import url(../blocks/trip-ideas/__image/trip-ideas__image.css);
+@import url(../blocks/trip-ideas/__item/trip-ideas__item.css);
+@import url(../blocks/trip-ideas/__text/trip-ideas__text.css);
+@import url(../blocks/trip-ideas/__title/trip-ideas__title.css);
+@import url(../blocks/page/page.css);
+@import url(../blocks/trip-ideas/__forest/trip-ideas__forest.css);
+@import url(../blocks/trip-ideas/__image-forest/trip-ideas__image-forest.css);
+@import url(../blocks/trip-ideas/__image-mount/trip-ideas__image-mount.css);
+@import url(../blocks/trip-ideas/__image-sea/trip-ideas__image-sea.css);
+@import url(../blocks/trip-ideas/__mount/trip-ideas__mount.css);
+@import url(../blocks/trip-ideas/__sea/trip-ideas__sea.css);
