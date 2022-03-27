@@ -1,3 +1,4 @@
+@import url(../vendor/normalize.css);
 @import url(../blocks/trip-ideas/trip-ideas.css);
 @import url(../blocks/trip-ideas/__image/trip-ideas__image.css);
 @import url(../blocks/trip-ideas/__item/trip-ideas__item.css);
