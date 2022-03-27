@@ -1,0 +1,9 @@
+.intro-img {
+    background-image: url("../../../images/intro-image.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: top;
+    background-position-x: center;
+    width: 280px;
+    height: 280px;
+}

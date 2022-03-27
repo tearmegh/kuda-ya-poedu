@@ -1,0 +1,6 @@
+.header {
+    min-height: 70px;
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+}
