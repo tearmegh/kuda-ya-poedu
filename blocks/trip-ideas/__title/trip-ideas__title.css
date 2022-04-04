@@ -1,8 +1,8 @@
 .trip-ideas__title {
-  font-family: Arial;
+  font-family: Inter, sans-serif;
   font-size: 60px;
   line-height: 1;
-  font-weight: bold;
+  font-weight: 900;
   margin: 0;
 }
 @media screen and (min-width: 1280px) and (max-width: 1600px) {

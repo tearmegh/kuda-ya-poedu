@@ -1,9 +1,11 @@
 @import url(../vendor/normalize.css);
+@import url(../vendor/fonts.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__link/header__link.css);
 @import url(../blocks/header/__links/header__links.css);
 @import url(../blocks/intro/intro.css);
+@import url(../blocks/intro/__img-wrapper/intro__img-wrapper.css);
 @import url(../blocks/intro/__img/intro__img.css);
 @import url(../blocks/intro/__subtitle/intro__subtitle.css);
 @import url(../blocks/intro/__title/intro__title.css);
@@ -19,5 +21,12 @@
 @import url(../blocks/trip-ideas/__image-sea/trip-ideas__image-sea.css);
 @import url(../blocks/trip-ideas/__mount/trip-ideas__mount.css);
 @import url(../blocks/trip-ideas/__sea/trip-ideas__sea.css);
+@import url(../blocks/people-say/__title/people-say__title.css);
+@import url(../blocks/people-say/people-say.css);
+@import url(../blocks/people-say/__subtitle/people-say__subtitle.css);
+@import url(../blocks/people-say/__author/people-say__author.css);
+@import url(../blocks/people-say/__quote/people-say__quote.css);
+@import url(../blocks/people-say/__quotes/people-say__quotes.css);
+@import url(../blocks/people-say/__quote-text/people-say__quote-text.css);
 @import url(../blocks/footer/__text/footer__text.css);
 @import url(../blocks/footer/foooter.css);
