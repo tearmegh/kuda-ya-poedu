@@ -6,4 +6,6 @@
     background-position-x: center;
     width: 280px;
     height: 280px;
+    margin-left: calc((100% - 280px) / 2);
+    margin-bottom: 60px;
 }
