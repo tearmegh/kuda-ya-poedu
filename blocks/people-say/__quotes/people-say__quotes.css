@@ -1,4 +1,7 @@
 .people-say__quotes {
     list-style-type: none;
     display: flex;
+    padding: 0;
+    margin-top: 70px;
+    justify-content: space-between;
 }
